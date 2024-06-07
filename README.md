@@ -1,1 +1,1 @@
-"# GelecegeNot" - Cemilcem Oktay 
+"# GelecegeNot" - Cemilcem Oktay - SQL
